@@ -13,10 +13,10 @@ In this example I will be using Cypress however this can be intergated to most a
 
 ## Install
 
-1. clone project `git clone git@github.com:pirasanthan-jesugeevegan/cypress-demo-examples.git`
+1. clone project `git clone git@github.com:Akkshay10/Cypress-ChatGpt1.git`
 2. navigate to example -> chat-gpt
 3. install deplency `npm install` inside chat-gpt directory
-4. `.env` and add the API token to the file
+4. Rename .env.example -> .env and add the API token to the file
 
 ## Run
 
